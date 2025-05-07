@@ -36,3 +36,7 @@ Get live weather details for any city:
  .Weather description
  
  .Humidity percentage
+
+
+## OUTPUT 
+![Image](https://github.com/user-attachments/assets/015e8de7-37ca-4849-81eb-9d2fdb7d1858)
